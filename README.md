@@ -3,13 +3,14 @@
  Get perfect shadows every time for the non-designer.
 
  # Installation
-
+```bash
  `npm i shadowizard_ehtasham`
+```
 
 
  Then...
 
- ```
+ ```javascript
    import {shadowizard_ehtasham} from 'shadowizard_ehtasham'
 
    shadowizard_ehtasham({

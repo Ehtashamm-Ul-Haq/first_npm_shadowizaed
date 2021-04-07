@@ -1,0 +1,25 @@
+{
+  "name": "shadowizard_ehtasham",
+  "version": "1.0.0",
+  "description": "'Get perfect shadows every time for the non-designer'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahtashamshani1/first_npm_shadowizaed.git"
+  },
+  "keywords": [
+    "shadows",
+    "ehtasham shodowizard",
+    "shodowizard ehtasham",
+    "ehtasham"
+  ],
+  "author": "Ehtasham Ul haq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahtashamshani1/first_npm_shadowizaed/issues"
+  },
+  "homepage": "https://github.com/ahtashamshani1/first_npm_shadowizaed#readme"
+}
