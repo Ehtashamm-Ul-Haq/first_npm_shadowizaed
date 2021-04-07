@@ -25,6 +25,6 @@
 
 | Options  | Types |
 | ------------- | ------------- |
-| `Shadow_type` | _hard | soft_ (Defaults to soft)  |
-| `padding`  | _boolean_ (Defaults to false)  |
+| `Shadow_type` | **hard | soft** (Defaults to soft)  |
+| `padding`  | **boolean** (Defaults to false)  |
 
