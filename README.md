@@ -4,9 +4,8 @@
 
  # Installation
 ```bash
- `npm i shadowizard_ehtasham`
+ npm i shadowizard_ehtasham
 ```
-
 
  Then...
 
